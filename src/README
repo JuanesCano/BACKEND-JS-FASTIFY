@@ -1,0 +1,3 @@
+en fastify no se puede utilizar morgan, solo es en express, aca se utiliza otra dependencia que se llama loguer ya fs viene con esta predeterminada
+
+cors en fs se instala diferente porque tiene sus propios paquetes
